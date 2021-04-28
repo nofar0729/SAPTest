@@ -1,5 +1,5 @@
 #!/bin/sh
 _test_func(){
-echo test
+echo testt
 }
 
